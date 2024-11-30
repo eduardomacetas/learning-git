@@ -1,3 +1,4 @@
 # Version Control Best Practices
 
-- [**Rebasing**](rebasing.md)
+- [**Commit Frequency:**](commit-frequency.md)
+- [**Descriptive Commit Messages:**](descriptive-commit-messages.md)
