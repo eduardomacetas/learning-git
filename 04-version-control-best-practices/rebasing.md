@@ -69,3 +69,34 @@ Un **rebase normal** se utiliza para aplicar los cambios de una rama sobre otra 
     ```
 
     Esto tomará tus commits y los aplicará sobre la rama principal.
+
+### 3. Resolución de Conflictos Durante el Rebase
+
+Es posible que encuentres conflictos durante un rebase, especialmente si los mismos archivos han sido modificados en ambas ramas. Git te indicará los archivos en conflicto.
+
+#### Pasos para resolver conflictos:
+
+1. Abre los archivos en conflicto y resuélvelos manualmente.
+2. Marca los archivos como resueltos:
+    ```bash
+    git add archivo_en_conflicto
+    ```
+3. Continúa con el rebase:
+    ```bash
+    git rebase --continue
+    ```
+    Si es necesario, repite estos pasos hasta que el rebase esté completo.
+
+## Ventajas del Rebasing
+- **Historial limpio y lineal:** Al rebasear, tu historial se mantiene ordenado, lo que facilita la comprensión del flujo de trabajo.
+- **Menos commits de fusión:** Elimina los commits de fusión innecesarios, lo que hace que el historial sea más fácil de seguir.
+- **Mayor control sobre el historial:** Con el rebase interactivo, puedes modificar y reorganizar los commits antes de que se fusionen con la rama principal.
+
+## Desventajas del Rebasing
+
+- **Reescritura del historial:** El rebase modifica el historial de commits, lo cual puede ser peligroso si ya has compartido esos commits con otros colaboradores. Por esta razón, es recomendable usar el rebase solo en ramas locales que aún no han sido compartidas.
+- **Conflictos recurrentes:** Si no se hace con frecuencia, un rebase puede generar muchos conflictos que requieren ser resueltos manualmente.
+
+## Conclusión
+
+El **rebasing** es una herramienta poderosa que, cuando se usa correctamente, permite mantener un historial limpio y fácil de seguir. Sin embargo, es importante ser consciente de cuándo usarlo y cuándo evitarlo, especialmente cuando se trabaja en colaboración con otros. Si usas el rebasing de manera adecuada, podrás disfrutar de un flujo de trabajo más organizado y eficiente en Git.
