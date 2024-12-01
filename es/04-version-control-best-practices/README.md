@@ -1,5 +1,5 @@
-# Version Control Best Practices
+# Buenas Prácticas para el Control de Versiones
 
-- [**Commit Frequency:**](commit-frequency.md)
-- [**Descriptive Commit Messages:**](descriptive-commit-messages.md)
+- [**Frecuencia de Commits**](commit-frequency.md)
+- [**Commits con Descripciones Claras:**](descriptive-commit-messages.md)
 - [**Rebasing:**](rebasing.md)
