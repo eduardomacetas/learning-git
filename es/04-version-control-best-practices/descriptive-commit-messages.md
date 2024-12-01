@@ -1,4 +1,4 @@
-# Mensajes descriptivos de un commit
+# Commits con Descripciones Claras
 
 ## Concepto
 
