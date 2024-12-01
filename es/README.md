@@ -21,7 +21,7 @@
     - **Merging**
     - **Conflict Resolution**
 
-4. [Buenas Prácticas para el Control de Versiones](es/04-version-control-best-practices/README.md)
+4. [Buenas Prácticas para el Control de Versiones](04-version-control-best-practices/README.md)
     - **Frecuencia de Commits**
     - **Commits con Descripciones Claras**
     - **Rebasing** 
