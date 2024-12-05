@@ -86,5 +86,4 @@ Puedes crear manualmente una tracking branch al usar el comando `git checkout` o
 5. **Elimina ramas locales obsoletas:** Una vez que una rama ha sido fusionada y ya no es necesaria, elimínala para mantener un entorno limpio.
 
 ## Conclusión
-
 Las tracking branches son esenciales para trabajar de manera efectiva con repositorios remotos en Git. Al comprender cómo configurarlas y gestionarlas, puedes mantener un flujo de trabajo claro y organizado en proyectos colaborativos. Integrar estas prácticas en tu proceso mejora la sincronización y reduce conflictos al trabajar en equipo.
