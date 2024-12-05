@@ -32,6 +32,6 @@
     - **git revert**
 
 6. [Trabajando con Repositorios Remotos](06-working-with-remote-repositories/README.md)
-    - **Gestión de Repositorios Remotos
+    - **Gestión de Repositorios Remotos**
     - **Fork y Clonar**
     - **Tracking Branches**
