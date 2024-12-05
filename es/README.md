@@ -30,3 +30,5 @@
     - **git stash**
     - **git reset**
     - **git revert**
+
+6. [Trabajando con Repositorios Remotos](06-working-with-remote-repositories/README.md)
