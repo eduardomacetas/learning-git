@@ -26,3 +26,7 @@
     - **Commits con Descripciones Claras**
     - **Rebasing** 
     
+5. [Stashing y recuperación en control de versiones](05-stashing-and-undoing-changes/README.md)
+    - **git stash**
+    - **git reset**
+    - **git revert**
