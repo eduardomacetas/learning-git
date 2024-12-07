@@ -21,6 +21,12 @@
     - **Merging**
     - **Conflict Resolution**
 
+3. [Colaboración y Flujo de Trabajo](03-collaboration-and-workflow/README.md)
+    - **Pull Request**
+    - **Feature Branching**
+    - **Code Review**
+    - **Forking**
+
 4. [Buenas Prácticas para el Control de Versiones](04-version-control-best-practices/README.md)
     - **Frecuencia de Commits**
     - **Commits con Descripciones Claras**
