@@ -1,23 +1,6 @@
-# Learning Git
+# Git Learning Repository
 
-¡Bienvenido a Learning Git! Este repositorio está diseñado para ayudarte a comprender y dominar los fundamentos de Git, desde los comandos básicos hasta conceptos más avanzados. Cada tema incluye explicaciones y ejercicios prácticos para que puedas aplicar lo aprendido.
+Welcome! This repository is available in the following languages:
 
-## Temas
-
-1. [Basic Git Commands](01-basic-commands/README.md)
-    - **git clone**
-    - **git init**
-    - **git add**
-    - **git add**
-    - **git commit**
-    - **git status**
-    - **git log**
-    - **git pull**
-    - **git push**
-    - **git checkout**
-
-2. [Branching and Merging](02-branching-and-merging/README.md)
-    - **Branching**
-    - **Merging**
-    - **Conflict Resolution**
-    
+- [English](en/README.md)
+- [Español](es/README.md)
