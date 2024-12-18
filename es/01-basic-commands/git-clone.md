@@ -6,11 +6,8 @@ Es un comando de Git usado para clonar (copiar) un repositorio existente.
 
 ## Como funciona
 
-La clonacion crea automaticamente una conexion remtoa llamada "origin" que apunta al repositorio original.
-
-[IMAGEN]
-
-* explicacion de la imagen. Cuando se hace git clone de igual forma se obtiene el historial de commits.
+- La clonacion crea automaticamente una conexion remtoa llamada "origin" que apunta al repositorio original.
+- Cuando se hace git clone de igual forma se obtiene el historial de commits.
 
 ## Comando
 
@@ -24,7 +21,7 @@ La clonacion crea automaticamente una conexion remtoa llamada "origin" que apunt
 
 2. Selecciona el boton verde "<> Code"
 3. Nota que se desplegan opciones entre ellas "Clone"
-4. Selecciona una de las 3 opciones existentes, por eje,ploe: HTTPS
+4. Selecciona una de las 3 opciones existentes, por ejemplo: HTTPS
 5. Copia el link
 6. Abre una consola de comandos
 7. Dirigete al directorio en el que quieras tener la copia de repositorio (usa los comandos [cd], [cd..], [mkdir], [ls]) para poder ubbicarte en el lugar deseado

@@ -10,8 +10,6 @@ Es el comando que te permite subit los commits desde tu rama local en tu reposit
 - Git push sobrescribe otros cambios, por lo que el comando debe utilizarse con cuidado.
 - Es la contraparte del git pull.
 
-[IMAGEN]
-
 ## Comando
 
 + - git push <nombre del repositorio> <nombre de la rama> : sube los cambios del repositorio y rama indicados al repositorio remoto

@@ -9,7 +9,6 @@ Este snapshot es el que posteriormente se convertirá en un commit.
 
 Es la forma de decirle a Git qué cambios particulares se realizarán en la próxima confirmación.
 
-[IMAGEN]
 
 ## Comando(s)
 

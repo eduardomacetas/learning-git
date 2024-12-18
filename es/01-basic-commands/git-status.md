@@ -9,8 +9,6 @@ Es el comando que permite ver los cambios que se han preparado, los que no y los
 - Enumera los archivos que se han preparado, los que están sin preparar y los archivos sin seguimiento.
 - Muestra lo que ha ocurrido con los comandos git add y git commit.
 
-[IMAGEN]
-
 ## Comando
 
 + - git status
@@ -27,3 +25,5 @@ Es el comando que permite ver los cambios que se han preparado, los que no y los
 
 ## Recurso / Bibliografía
 - https://www.atlassian.com/es/git/tutorials/inspecting-a-repository#:~:text=El%20comando%20git%20status%20muestra,relativa%20al%20historial%20del%20proyecto.
+
+TEST

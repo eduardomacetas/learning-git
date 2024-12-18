@@ -9,7 +9,6 @@ Es el comando que captura una instantánea de los cambios preparados en ese mome
 - Es la forma de confirmarle a Git qué cambios particulares se realizarán en un determinado momento en su repositorio local.
 - En vez de hacer un cambio y confirmaro directamente en el repositorio central, los usuarios de Git tienen la oportunidad de acumular confirmaciones en su repositorio local.
 
-[IMAGEN]
 
 ## Comando(s)
 
