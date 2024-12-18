@@ -19,8 +19,6 @@ Por defecto, el comando muestra los datos de cada commit:
     - Para avanzar una página, utilice b o el botón de avance de página.
     - Para salir del registro, utilice q.
 
-[IMAGEN]
-
 ## Comando
 
 + - git log : Muestra el historial completo.
