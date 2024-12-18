@@ -20,7 +20,7 @@ Es el comando que te permite subit los commits desde tu rama local en tu reposit
 
 ## Ejemplo práctico usando git push 
 
-1. Dirigete al directorio en el que se encuentran los archivos a anadir al indice (usa los comandos [cd], [cd..], [mkdir], [ls]) para poder ubbicarte en el lugar deseado
+1. Dirigete al directorio en el que se encuentran los archivos a anadir al indice (usa los comandos [cd], [cd..], [mkdir], [ls]) para poder ubicarte en el lugar deseado
 2. Realiza algun cambio al archivo "miarchivo.md"
 3. Escribe "git add" seguido del nobre del archivo, deberia quedar asi: git add miarchivo.md
 4. Presiona ENTER
